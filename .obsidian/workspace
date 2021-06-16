@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "4aa6a287b9740324",
+    "type": "split",
+    "children": [
+      {
+        "id": "62a5f44b96047b2c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BERT (Bidirectional Encoder Representations from Transformers).md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31b412f3d4103a22",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ff0b5c5bed6164a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c67ade8771d1fe6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4b445545b14b5ff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0120ef784d6e71d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f0bbac13cacb09a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb6efea61d4441f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BERT (Bidirectional Encoder Representations from Transformers).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "62a5f44b96047b2c",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Attention Is All You Need.pdf",
+    "ClinicalBERT- Modeling Clinical Notes and Predicting Hospital Readmission.pdf",
+    "BERT Pre-training of Deep Bidirectional Transformers for.pdf",
+    "Publically Available Clinica BERT Embeddings.pdf"
+  ]
+}
