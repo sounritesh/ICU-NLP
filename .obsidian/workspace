@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BERT (Bidirectional Encoder Representations from Transformers).md",
+            "file": "Huggingface.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BERT (Bidirectional Encoder Representations from Transformers).md",
+                "file": "Huggingface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,14 @@
   },
   "active": "62a5f44b96047b2c",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Attention Is All You Need.pdf",
-    "ClinicalBERT- Modeling Clinical Notes and Predicting Hospital Readmission.pdf",
+    "Huggingface.md",
+    "BERT (Bidirectional Encoder Representations from Transformers).md",
+    "hunggingface.md",
+    "Transformer Models.md",
     "BERT Pre-training of Deep Bidirectional Transformers for.pdf",
+    "Attention Is All You Need.pdf",
+    "Untitled.md",
+    "ClinicalBERT- Modeling Clinical Notes and Predicting Hospital Readmission.pdf",
     "Publically Available Clinica BERT Embeddings.pdf"
   ]
 }
