@@ -1,8 +1,9 @@
 # Intro
-## Brief CNkNjZ^$8X4c
+## Brief
 1. http://jalammar.github.io/illustrated-bert/
 
-## Detailed (Research paper)
+## Detailed (Research papers)
+### General
 1. [[Attention Is All You Need.pdf]] (Transformer models)
 2. [[BERT Pre-training of Deep Bidirectional Transformers for.pdf]]
 
