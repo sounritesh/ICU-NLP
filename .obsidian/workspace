@@ -9,8 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Huggingface.md",
+            "file": "Research Papers/Attention Is All You Need.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "80226302a96a6234",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "PDF Attachments/Attention Is All You Need.pdf"
           }
         }
       }
@@ -68,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Huggingface.md",
+                "file": "Research Papers/Attention Is All You Need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +98,15 @@
   },
   "active": "62a5f44b96047b2c",
   "lastOpenFiles": [
-    "Huggingface.md",
-    "BERT (Bidirectional Encoder Representations from Transformers).md",
-    "hunggingface.md",
-    "Transformer Models.md",
-    "BERT Pre-training of Deep Bidirectional Transformers for.pdf",
-    "Attention Is All You Need.pdf",
-    "Untitled.md",
-    "ClinicalBERT- Modeling Clinical Notes and Predicting Hospital Readmission.pdf",
-    "Publically Available Clinica BERT Embeddings.pdf"
+    "Research Papers/Attention Is All You Need.md",
+    "PDF Attachments/Attention Is All You Need.pdf",
+    "Research Papers/Publically Available Clinical BERT Embeddings.md",
+    "Research Papers/ClinicalBERT- Modeling Clinical Notes and Predicting Hospital Readmission.md",
+    "Research Papers/BERT Pre-training of Deep Bidirectional Transformers for Language Understanding.md",
+    "Research Papers/BERT Pre-training of Deep Bidirectional Transformers.md",
+    "PDF Attachments/BERT Pre-training of Deep Bidirectional Transformers for Language Understanding.pdf",
+    "PDF Attachments/BERT Pre-training of Deep Bidirectional Transformers for.pdf",
+    "Research Papers/Publically Available Clinica BERT Embeddings.md",
+    "Models-or-Achitectures/BERT (Bidirectional Encoder Representations from Transformers).md"
   ]
 }

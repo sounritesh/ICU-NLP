@@ -29,7 +29,9 @@ import **AutoTokenizer** (detects the tokenizer of the model automatically) and 
 *the **.from_pretrained(model_name)** returns the model/tokenizer/other class detected automatically*
 
 ### Source Code examples
+[Krish Naik - Google Collab Notebook](https://colab.research.google.com/drive/1xyaAMav_gTo_KvpHrO05zWFhmUaILfEd?usp=sharing#scrollTo=qmGhgkHyJnr0)
 ***direct implementation: [[direct-use.py]]***
-***detailed implementation: [[detaile d-use.py]]***
+***detailed implementation: [[detailed-use.py]]***
+***under the hood implementation: [[under-the-hood.py]]***
 
 ### Fine tuning a pre-trained model on custom data set
